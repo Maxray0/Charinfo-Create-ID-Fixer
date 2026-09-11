@@ -21,7 +21,7 @@ The provided script automatically performs an edit on the binary data of a `.cha
 Run the script manually by providing the file path(s) as arguments:
 
 ```bash
-python fix_charinfo.py <your_file>.charinfo
+python mii_id_fixer.py <your_file>.charinfo
 ```
 
 ### Batch Processing
